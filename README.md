@@ -1,0 +1,1 @@
+# goldbatchs-conjecture-in-array
